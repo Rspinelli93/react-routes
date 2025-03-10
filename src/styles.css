@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  h1, h3 {
+    color: #222;
+  }
+  
+  .resumeList, .projectList {
+    list-style: none;
+    padding: 10px;
+    margin: 10px 0;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .resumeList li, .projectList li {
+    padding: 5px 0;
+  }
+  
+  .projectList img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  a {
+    color: #0073e6;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 15px;
+    background: #222;
+    color: white;
+    margin-top: 20px;
+  }
+  
+  footer a {
+    color: #00bcd4;
+    margin: 0 5px;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
+  nav {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    padding: 8px 12px;
+    background: #0073e6;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    background: #005bb5;
+  }  
+
+  .descripcionHome{
+    width: 50%;
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: 25%;
+    margin-bottom: 30px;
+  }
+  
+  h1{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-bottom: 3%;
+  }
